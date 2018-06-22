@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/Composition/bin/Debug/netcoreapp2.0/Composition.deps.json
+/Users/koji/Repositories/Csharp/Composition/bin/Debug/netcoreapp2.0/Composition.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Composition/bin/Debug/netcoreapp2.0/Composition.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Composition/bin/Debug/netcoreapp2.0/Composition.dll
+/Users/koji/Repositories/Csharp/Composition/bin/Debug/netcoreapp2.0/Composition.pdb
+/Users/koji/Repositories/Csharp/Composition/obj/Debug/netcoreapp2.0/Composition.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/Composition/obj/Debug/netcoreapp2.0/Composition.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Composition/obj/Debug/netcoreapp2.0/Composition.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Composition/obj/Debug/netcoreapp2.0/Composition.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Composition/obj/Debug/netcoreapp2.0/Composition.dll
+/Users/koji/Repositories/Csharp/Composition/obj/Debug/netcoreapp2.0/Composition.pdb
